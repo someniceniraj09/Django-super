@@ -1,0 +1,24 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/homeless",
+    "prod_uri": "mysql://root:@localhost/homeless",
+    "fb_uri": "https://faceboom.com/homeless",
+    "tw_uri": "https://twitter.com/homelessgroup",
+    "gh_uri": "https://github.com/homelessgroup",
+    "blog_name": "Coding Practice",
+    "blog_uri": "Biller Isolation Team",
+    "gmail-user" : "amineforfun09@gmail.com",
+    "gmail-password" : "itsmine1a",
+    "about_text": "Hi my name is Viraj and i am developing this site",
+    "no_of_post": 5,
+    "login_image": "login.svg",
+    "admin_user": "viraj",
+    "admin_password": "sharma",
+    "upload_location": "C:\\Users\\Viraj PC\\PycharmProjects\\fflog\\static\\img"
+
+  }
+
+}
